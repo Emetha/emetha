@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emelie Tham!
-- 👀 I’m interested in software development, in particular web development. 
+- 👀 I’m interested in software development.
 - 🌱 I’m currently learning about Node.js and React/Redux. 
 - 📫 Reach me with tham.emelie@gmail.com
 
