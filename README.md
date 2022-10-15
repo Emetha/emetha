@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emelie Tham!
 - 👀 I write code with 🍵 and care. I strive for creating functional, performant web apps, and enjoy learning about software development and design. 
-- 🌱 I’m currently learning about Node.js and React/Redux. 
+- 🌱 I’m currently learning about Kubernetes and Google Cloud. 
 - 📫 Reach me with tham.emelie@gmail.com, or checkout out my [portfolio page](https://emetha.github.io/#/)!
 
 <!---
